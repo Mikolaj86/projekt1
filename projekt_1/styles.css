@@ -1,0 +1,225 @@
+body {
+	background: url("images/tlo1.png") 50% 0;
+	background-repeat: no-repeat;
+	background-position: center-top;
+	font-family: Helvetica, Arial;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+.container {
+	width: 960px;
+	margin: 0 auto;
+	background-color: transparent;
+}
+#menu {
+	margin: 20px 0 0 50px;
+	padding:0;
+	list-style-type:none;
+  }
+#menu li {
+	display: inline;
+}
+#menu li a {
+	text-decoration:none;
+	color:#fff;
+  }
+header {
+	background-color: transparent;
+}
+header h1 {
+	font-size: 40px;
+	color: #fff;
+	margin: 200px 0 0 0;
+	text-align: center;
+}
+header p {
+	color: #fff;
+	text-align: center;
+}
+.laptop {
+	background: url("images/laptop1.png");
+	background-repeat: no-repeat;
+	background-position: center-top; 
+	width: 100%;
+	height: 571px;
+	margin: 200px 0 0 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+.tel {
+	float: right;
+	margin: 70px 180px 0 0 ;
+	color: #000;
+}
+.logo1{
+	margin: 50px 0 0 150px;
+}
+.polowa1 {
+	width: 400px;
+	float: left;
+	margin: 20px 0 0 120px;
+}
+.polowa1 img {
+	margin: 10px 0 0 40px;
+}
+.polowa2 {
+	width: 400px;
+	float: left;
+	margin: 20px 0 0 30px;
+}
+.n2 {
+	width: 660px;
+	margin: 100px 150px 100px 150px;
+}
+.n2 p {
+	color: #a7aeb3;
+}
+
+.paper {
+	width: 960px;
+	margin: 30px auto;
+	box-shadow: 0px 0px 30px 1px #ccb5ee;
+}
+.paper:after {
+	content:'';
+	display:block;
+	clear:both;
+  }
+.logo {
+	margin: 40px 0 0 50px;
+}
+.telefon {
+	float: right;
+	margin: 50px 80px 0 0;
+}
+.half1 {
+	width: 510px;
+	float: left;
+}
+.half1 img {
+	margin: 10px 0 0 30px;
+}
+.half2 {
+	width: 450px;
+	float: left;
+	margin: 0 0 30px 0;
+}
+.half2 img {
+	margin: 0 0 0 30px;
+}
+.tytul {
+	color: #000;
+	font-size: 30px;
+	margin: 30px 0 0 50px;
+}
+.tresc {
+	color: #a7aeb3;
+	margin: 40px 0 0 50px;
+
+}
+.galeria {
+	clear: both;
+	width: 100%;
+	text-align: center;
+	margin: 50px 0 0 0;
+}
+
+.tekstb {
+	font-size: 25px;
+	color: #000;
+}
+.miasta {
+	margin: 15px 0 0 15px;
+}
+.miasta:hover {
+	box-shadow: 0 0 10px 2px #ccb5ee;
+}
+.pola {
+	width: 100%;
+	height: 100px;
+	background-color: #a17ee2;
+	text-align: center;
+	margin: 50px 0 0 0;
+	padding: 0;
+}
+.pola img {
+	margin: 9px 0 0 0;
+}
+.obrazy {
+	text-align: center;
+	margin: 30px 0 0 0;
+}
+.obrazy table {
+	margin: 0 auto;
+}
+.obrazy td {
+	width: 250px;
+	font-size: 14px;
+	color: #a7aeb3;
+}
+.projekt {
+	background-color: #f6f9fe;
+	margin:  50px 0 0 0;
+}
+.projekt:after {
+	content:'';
+	display:block;
+	clear:both;
+  }
+.zd {
+	width: 360px;
+	float: left;
+	margin: 50px 0 50px 90px;
+	background-color: #f6f9fe;
+}
+.ztab {
+	width: 480px;
+	float: left;
+	background-color: #f6f9fe;
+	margin: 30px 0 30px 0px;
+}
+.teksttabela {
+	color: #a7aeb3;
+	font-size: 12px;
+}
+.ztab td {
+	vertical-align: top;
+	font-size: 15px;
+}
+.zdj {
+	text-align: center;
+}
+.przejscie {
+	text-align: center;
+}
+footer {
+	background-color: #f6f9fe;
+	height: 70px;
+}
+.social {
+	margin: 20px 0 0 5px;
+}
+.telefonstopka {
+	float: right;
+	margin: 20px 30px 0 0;
+}
+.socialmedia {
+	width: 200px;
+	float: left;
+}
+.tekststopka {
+	width: 150px;
+	float: left;
+	color: #a7aeb3;
+	font-size: 12px;
+	margin: 10px 0 0 50px;
+
+}
+footer:after {
+	content:'';
+	display:block;
+	clear:both;
+  }
